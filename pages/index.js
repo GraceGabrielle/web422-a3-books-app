@@ -1,14 +1,14 @@
-/********************************************************************************
-*  WEB422 – Assignment 02
+/*********************************************************************************
+* WEB422 – Assignment 3
 *
-*  I declare that this assignment is my own work in accordance with Seneca's
-*  Academic Integrity Policy:
+* I declare that this assignment is my own work in accordance with Seneca's
+* Academic Integrity Policy:
+* 
+* https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+* 
+* Name: Grace Gabrielle    Student ID: __________    Date: April 12, 2026
 *
-*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
-*
-*  Name: Grace Gabrielle
-*  Student ID: 114693245
-*  Date: March 4, 2026
+* Vercel App (Deployed) Link: _____________________________________________________
 *
 ********************************************************************************/
 import SearchForm from "@/components/SearchForm";
